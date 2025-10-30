@@ -5,3 +5,5 @@ Current Progress :
 3. Batches creation : to create batches per target of the graphs
 
 Next steps : To build the GNN AutoEncoder model to get Generative and Constrastive Loss
+
+working with [@Vincenzo Jason Carter](https://github.com/VincenzoJasonCarter)
